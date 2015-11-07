@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[randyjhunt]]></title>
         <description><![CDATA[randyjhunt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/randyjhunt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 22:52:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 09:54:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/randyjhunt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<h1>Test Post</h1>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/randyjhunt/test-post/index.html</link>
             <guid isPermaLink="false">b2a1a806-0f92-4aa5-8775-d0e0f715a5c1</guid>
-            <pubDate>Sun, 01 Nov 2015 22:52:46 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 09:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
